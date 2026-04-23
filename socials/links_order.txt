@@ -1,19 +1,19 @@
 content:
 youtube
 instagram
-discord
+twitch
+tiktok
 
-games
+social:
+discord
+reddit
+x
+
+games:
 steam
 roblox
 
-taste
+taste:
 spotify
 mal
 pinterest
-
-other
-x
-reddit
-twitch
-tiktok
